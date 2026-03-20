@@ -1,0 +1,1 @@
+Here I will upload some of my private projects I am currently pursuing to improve my skills with Python and SQL. I have a focus on econometrics and real estate as those are my areas of expertise. I will upload all of the progress I have made and projects I have done into this repository. 
